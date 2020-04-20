@@ -8,7 +8,7 @@
 ### 数据结构
 > **链表**
 
-- [160 相交链表（简单）](www.baidu.com)
+- [160 相交链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/160_Intersection_of_Two_Linked_Lists.md)
 
 > **树**
 
