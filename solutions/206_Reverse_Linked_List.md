@@ -57,7 +57,7 @@ func reverseList(head *ListNode) *ListNode {
 
 **空间复杂度：**$O(1)$。
 
-Golang（递归法）：**
+Golang（递归法）：
 
 ```go
 /**
