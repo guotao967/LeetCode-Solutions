@@ -53,7 +53,11 @@ func reverseList(head *ListNode) *ListNode {
 }
 ```
 
-**Golang（递归法）：**
+**时间复杂度：**假设链表长度为N，需要遍历整个链表一次，因此时间复杂度为$O(N)$。
+
+**空间复杂度：**$O(1)$。
+
+Golang（递归法）：**
 
 ```go
 /**
@@ -74,3 +78,6 @@ func reverseList(head *ListNode) *ListNode {
 }
 ```
 
+**时间复杂度：**假设链表长度为N，时间复杂度为$O(N)$。
+
+**空间复杂度：**由于使用递归，会使用到栈空间，递归的深度可能达到$O(N)$。

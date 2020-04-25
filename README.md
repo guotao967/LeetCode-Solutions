@@ -8,14 +8,16 @@
 ### 数据结构
 > **链表**
 
-- [160 相交链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/160_Intersection_of_Two_Linked_Lists.md)
-- [206 反转链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/206_Reverse_Linked_List.md)
+- [160. 相交链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/160_Intersection_of_Two_Linked_Lists.md)
+- [206. 反转链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/206_Reverse_Linked_List.md)
 
 > **树**
 
 > **栈和队列**
 
 > **哈希表**
+
+- 面试题03. 数组中重复的数字(https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/面试题03_数组中重复的数字.md)
 
 > **字符串**
 
@@ -28,8 +30,8 @@
 ### 算法分析
 > **双指针**
 
-- [160 相交链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/160_Intersection_of_Two_Linked_Lists.md)
-- [206 反转链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/206_Reverse_Linked_List.md)
+- [160. 相交链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/160_Intersection_of_Two_Linked_Lists.md)
+- [206. 反转链表（简单）](https://github.com/guotao967/LeetCode-Solutions/blob/master/solutions/206_Reverse_Linked_List.md)
 
 > **排序**
 

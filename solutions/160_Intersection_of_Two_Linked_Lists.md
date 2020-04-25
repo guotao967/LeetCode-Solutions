@@ -95,3 +95,7 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 }
 ```
 
+**时间复杂度：** $O(M+N)$
+
+**空间复杂度：**$O(1)$
+
